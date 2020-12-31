@@ -9,7 +9,7 @@ GiornaliGratis Plus - Applicazione
 
 2. Aprire il file .zip, dovrebbe essere stata creata una cartella chiamata "giornaligratis"
 
-3. Aprire una nuova tab su chrome://extensions , viene visualizzata una lista delle estensioni installate sul browser.
+3. Aprire una nuova tab su [chrome://extensions](chrome://extensions) , viene visualizzata una lista delle estensioni installate sul browser.
 
 2. Cliccare su “+ Developer tools” e quindi su “Load unpacked Extension…”, selezionare quindi la cartella dell’estensione (giornaligratis)
 
