@@ -5,7 +5,7 @@ GiornaliGratis Plus - Applicazione
 
 # COME INSTALLARE QUESTA APPLICAZIONE
 
-1. Scaricare questa cartella sul proprio computer
+1. Scaricare questa cartella sul proprio computer cliccando [qui](https://github.com/lorenzosinisi/giornaligratisplus/archive/master.zip)
 
 2. Aprire il file .zip, dovrebbe essere stata creata una cartella chiamata "giornaligratis"
 
